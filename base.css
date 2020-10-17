@@ -1,0 +1,32 @@
+:root {
+	/* Hauptfarben - für guten Inhalt */
+	--prb-schwarz: #252525;
+	--prb-dunkelgrau: #5C5C5C;
+	--prb-hellgrau: #D9D9D9;
+	--prb-eierschale: #E5E2CC;
+	--prb-rot: #C62828;
+
+	/* Zusatzfarben - für Spezielles */
+	--prb-blau: #006098;
+	--prb-gruen: #006E3A;
+	--prb-braun: #644438;
+	--prb-gelb: #FFCC00;
+	--prb-pink: #F10081;
+}
+
+body {
+	font-family: "Lato Light", sans-serif;
+	font-family: var(--prb-schwarz);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+b {
+	font-family: "Lato", sans-serif;
+	font-weight: 400;
+}
