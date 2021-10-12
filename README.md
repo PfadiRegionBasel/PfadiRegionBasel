@@ -9,7 +9,7 @@ Gesamtes Repo herunterladen und an gewünschtem Zielort entpacken, dabei die Ord
 
 Somit wird die Schriftart [Lato](https://www.latofonts.com) (Gewicht 300) als Standardschrift gesetzt. Zudem werden die PRB-spezifischen Farben als CSS-Variablen definiert:
 ```css
-  :root {
+:root {
   /* Hauptfarben - für guten Inhalt */
   --prb-schwarz: #252525;
   --prb-dunkelgrau: #5C5C5C;
